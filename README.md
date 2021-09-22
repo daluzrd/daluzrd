@@ -2,7 +2,7 @@
 
  - :brazil: Brazilian
  - :sparkles: Web Developer
- - :office: Intern on Jabil do Brasil
+ - :office: Software Developer at Jabil do Brasil
  - :mag_right: Discovering new tools, technologies and environments
  - :confused: English isn't my best quality actually
  - :mailbox: You can reach me on [<img src="https://img.shields.io/static/v1?label=&labelColor=0A66C2&logo=linkedin&message=LinkedIn&color=0A66C2&style=flat-square"/>](https://www.linkedin.com/in/lucas-vin%C3%ADcius-luz-86281b198/) and [<img src="https://img.shields.io/static/v1?label=&labelColor=EA4335&logo=gmail&logoColor=white&message=Gmail&color=EA4335&style=flat-square"/>](mailto:lucasdaluz0399@gmail.com)
